@@ -91,7 +91,7 @@ class Login extends React.Component {
             </TouchableOpacity>
 
             <View style={styles.buttonSignIn}>
-              <Button title="Sign In" color="#00C8E4"
+              <Button title="Sign In DK" color="#00C8E4"
                 onPress={() => {
                   this.handleSubmit()
                   //navigation.navigate('Main')
